@@ -6,6 +6,6 @@
 5. Supply Chain operation Managements. 
 
 
-[![Alt text for your video](https://github.com/nandita96/PowerBI-Inventory-Dashbord/blob/main/Inventory-Analysis1.gif)
+#[![Alt text for your video](https://github.com/nandita96/PowerBI-Inventory-Dashbord/blob/main/Inventory-Analysis1.gif)
 
 <img src="Inventory-Analysis1.gif" width="1000" height="800">
