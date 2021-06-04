@@ -7,3 +7,5 @@
 
 
 [![Alt text for your video](https://github.com/nandita96/PowerBI-Inventory-Dashbord/blob/main/Inventory-Analysis1.gif)
+
+<img src="Inventory-Analysis1.gif" width="1000" height="800">
